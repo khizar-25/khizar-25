@@ -28,7 +28,7 @@
 
 <p align="center">
   Hey there! I'm <b>Mohammed Khizar</b>, a final-year <b>Computer Science and Business Systems (CSBS)</b> student at <b>Rajalakshmi Institute of Technology (RIT), Chennai</b>.<br />
-  I focus on <b>Data Engineering</b> — building Spark pipelines on Kubernetes, orchestrating workflows with Airflow, and creating AI-agent tools to automate complex engineering tasks.
+  I focus on <b>Data Engineering business development roles and ai product analyst </b> — building Spark pipelines , orchestrating workflows with Airflow, and creating AI-agent tools to automate complex engineering tasks.
 </p>
 
 <p align="center">
