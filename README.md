@@ -1,9 +1,13 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&lines=Hi%20I'm%20Mohammed%20Khizar%20%F0%9F%91%8B;Data%20Engineer%20%26%20Final-Year%20CSBS%20Student%20%F0%9F%92%BB;Spark%20%7C%20Airflow%20%7C%20Kubernetes%20%7C%20AI%20Agents%20%F0%9F%9A%80" width="100%" style="max-width: 620px;" alt="Typing Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ef4444&height=180&section=header&text=Mohammed%20Khizar&fontColor=ffffff&fontSize=42&animation=fadeIn" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-khizar-a01174290/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&lines=Hi%20I'm%20Mohammed%20Khizar%20%F0%9F%91%8B;Final-Year%20CSBS%20Student%20%F0%9F%8E%93;Business%20Development%20%7C%20AI%20Product%20%F0%9F%9A%80;Spark%20%7C%20AI%20Agents%20%7C%20Cloud%20%F0%9F%92%A1" width="100%" style="max-width: 650px;" alt="Typing Header" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-khizar-a01174290/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/khi.zar_2509/" target="_blank">
@@ -24,158 +28,222 @@
   <img src="https://komarev.com/ghpvc/?username=khizar-25&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+
 <h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  Hey there! I'm <b>Mohammed Khizar</b>, a final-year <b>Computer Science and Business Systems (CSBS)</b> student at <b>Rajalakshmi Institute of Technology (RIT), Chennai</b>.<br />
-  I focus on <b>Data Engineering business development roles and ai product analyst </b> — building Spark pipelines , orchestrating workflows with Airflow, and creating AI-agent tools to automate complex engineering tasks.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&lines=Where+technology+meets+business.;Building+AI+projects.+Learning+every+day." width="100%" style="max-width: 600px;" alt="Typing Quote" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Data%20Engineering%20Intern%20@%20L%26T-111111?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Education-B.Tech%20CSBS%20@%20RIT%20Chennai-DC2626?style=flat-square" alt="Education" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Pipelines%20%26%20AI%20Agents-111111?style=flat-square" alt="Focus" />
+  Hey! I'm <b>Mohammed Khizar</b>, a final-year <b>Computer Science and Business Systems (CSBS)</b> student at <b>Rajalakshmi Institute of Technology, Chennai</b>.<br />
+  I enjoy working where technology meets business: building AI-agent projects, working with data, and turning ideas into products. I'm looking for roles in business development, AI product, and analyst positions.
 </p>
 
 <p align="center">
-  🎯 <b>Career Goals:</b> Data Engineer | AI Product Analyst | Business Analyst & Cloud Roles<br />
-  ⚡ <b>Philosophy:</b> <i>"Architecting robust data pipelines and AI agent automation for production impact."</i>
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Degree-B.Tech_CSBS-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Year-Final_Year-111111?style=flat-square" alt="Year" />
+  <img src="https://img.shields.io/badge/Location-Chennai,_India-DC2626?style=flat-square" alt="Location" />
 </p>
 
-<h2 align="center">💼 Work Experience</h2>
+<p align="center">
+  💬 <b>Let's Discuss:</b> AI Products, Business Development, Data, AI Agents, Cloud, Python & Java<br />
+  🎯 <b>Career Goal:</b> Business Development, AI Product, AI Product Analyst, Business Analyst, AI Support & Cloud roles
+</p>
 
 <table width="100%" border="0" align="center">
   <tr>
-    <td style="padding: 16px;">
-      <h3>🛠️ Data Engineering Intern — <i>Larsen & Toubro Construction Limited</i></h3>
-      <p><b>Duration:</b> Dec 2025 – May 2026</p>
-      <ul>
-        <li>Engineered Spark-on-Kubernetes pipelines & Airflow DAGs for high-throughput PySpark ETL processes.</li>
-        <li>Managed HDFS & Apache Iceberg data storage architectures integrated with OpenSearch monitoring dashboards.</li>
-        <li>Designed an NLP-driven AI agent to automate data pipeline operations and engineering workflows.</li>
-      </ul>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🔭 Flagship Project</h4>
+      <p><a href="https://github.com/khizar-25/Trust--vault-AI-Governance-Financial-Agents" target="_blank"><b>TrustVault</b></a><br /><sub>Multi-Agent AI Governance for Finance</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🌱 Currently Exploring</h4>
+      <p><b>AI Products & Agents</b><br /><sub>Business Analysis & Cloud</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🎤 Music & Content Creator</h4>
+      <p><a href="https://www.instagram.com/khi.zar_2509/" target="_blank"><b>@khi.zar_2509</b></a><br /><sub>Singing Reels & Vlogs</sub></p>
+    </td>
+    <td width="50%" align="center" style="padding: 14px;">
+      <h4>🤝 Collaboration</h4>
+      <p><b>AI, Business & Cloud</b><br /><sub>Open to internships and full-time roles</sub></p>
     </td>
   </tr>
 </table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+
+<h2 align="center">💼 Experience</h2>
+
+<table width="100%" border="0" align="center">
+  <tr>
+    <td align="center" style="padding: 18px;">
+      <h3>Data Engineering Intern</h3>
+      <p><b>Larsen & Toubro Construction Limited</b><br /><sub>December 2025 – May 2026</sub></p>
+      <p><i>Built Spark data pipelines, developed PySpark ETL jobs on HDFS and Apache Iceberg, created OpenSearch dashboards, and built an NLP-driven AI agent for pipeline automation.</i></p>
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
 
 <h2 align="center">🚀 Featured Projects</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=800&color=F87171&center=true&vCenter=true&width=600&lines=AI+agents+%7C+Data+pipelines+%7C+Cloud-native+apps;Real+projects.+Real+code.+Real+impact." width="100%" style="max-width: 600px;" alt="Projects tagline" />
+</p>
+
 <table width="100%" border="0" align="center">
   <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🛡️ TrustVault</h4>
-      <p><i>Multi-agent AI governance platform for financial services (fraud, credit, compliance).</i></p>
+    <td width="50%" align="center" style="padding: 22px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=380&height=45&lines=%F0%9F%9B%A1%EF%B8%8F+TrustVault;Multi-Agent+AI+Governance;Fraud+%7C+Credit+%7C+Compliance" alt="TrustVault" />
+      <p><i>A Mixture-of-Experts multi-agent platform that supervises AI decisions in financial services, with governance, human approval and audit trails.</i></p>
       <p>
-        <a href="https://github.com/khizar-25/Trust--vault-AI-Governance-Financial-Agents" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-        </a>
+        <img src="https://img.shields.io/badge/LangGraph-0a0a0a?style=flat-square&logoColor=EF4444" alt="LangGraph" />
+        <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=EF4444" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=EF4444" alt="React" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=EF4444" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=EF4444" alt="Redis" />
+        <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=EF4444" alt="Docker" />
       </p>
+      <a href="https://github.com/khizar-25/Trust--vault-AI-Governance-Financial-Agents" target="_blank">
+        <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repo-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="TrustVault Source" />
+      </a>
     </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🚖 Taxi ETL Pipeline</h4>
-      <p><i>Scalable data pipeline built on Apache Spark, Kubernetes (k3d), and Apache Airflow.</i></p>
+    <td width="50%" align="center" style="padding: 22px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=380&height=45&lines=%E2%9A%99%EF%B8%8F+Taxi+ETL+Pipeline;End-to-End+Data+Pipeline;Spark+%2B+HDFS+%2B+Python" alt="Taxi ETL Pipeline" />
+      <p><i>An end-to-end Spark ETL pipeline for taxi trip data with distributed HDFS storage.</i></p>
       <p>
-        <a href="https://github.com/khizar-25/taxi-spark-k8s-kubernetes-" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-        </a>
+        <img src="https://img.shields.io/badge/Apache_Spark-0a0a0a?style=flat-square&logo=apachespark&logoColor=EF4444" alt="Spark" />
+        <img src="https://img.shields.io/badge/HDFS-0a0a0a?style=flat-square&logo=apachehadoop&logoColor=EF4444" alt="HDFS" />
+        <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=EF4444" alt="Python" />
       </p>
+      <a href="https://github.com/khizar-25/taxi-spark-k8s-kubernetes-" target="_blank">
+        <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Repo-DC2626?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a" alt="Taxi ETL Source" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🤖 Spark Agents</h4>
-      <p><i>Python CLI utilizing Anthropic API to automate Spark & Hadoop cluster provisioning.</i></p>
-      <p><sub><b>Focus:</b> Infrastructure Automation</sub></p>
+    <td width="50%" align="center" style="padding: 22px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=380&height=45&lines=%F0%9F%A4%96+Spark+Agents;AI+CLI+for+Spark+%26+Hadoop;Powered+by+Anthropic+API" alt="Spark Agents" />
+      <p><i>A Python CLI that uses Anthropic's API to automate Spark and Hadoop provisioning.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=EF4444" alt="Python" />
+        <img src="https://img.shields.io/badge/Anthropic_API-0a0a0a?style=flat-square&logo=anthropic&logoColor=EF4444" alt="Anthropic API" />
+        <img src="https://img.shields.io/badge/Spark-0a0a0a?style=flat-square&logo=apachespark&logoColor=EF4444" alt="Spark" />
+        <img src="https://img.shields.io/badge/Hadoop-0a0a0a?style=flat-square&logo=apachehadoop&logoColor=EF4444" alt="Hadoop" />
+      </p>
     </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🏢 Cloud-Native CRM</h4>
-      <p><i>Final-year capstone project designed for local Indian service businesses.</i></p>
-      <p><sub><b>Focus:</b> Full-Stack & Cloud Systems</sub></p>
+    <td width="50%" align="center" style="padding: 22px;">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=380&height=45&lines=%E2%98%81%EF%B8%8F+Cloud-Native+CRM;Final-Year+Project;Built+for+Local+Indian+Businesses" alt="Cloud-Native CRM" />
+      <p><i>A cloud-native CRM platform designed for local Indian service businesses.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Final_Year-Project-0a0a0a?style=flat-square&logoColor=EF4444" alt="Final Year Project" />
+        <img src="https://img.shields.io/badge/Cloud--Native-0a0a0a?style=flat-square&logoColor=EF4444" alt="Cloud-Native" />
+      </p>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khizar-25&bg_color=0a0a0a&color=ef4444&line=ef4444&point=ffffff&area=true&area_color=ef4444&hide_border=true&title_color=ef4444&radius=8" width="100%" style="max-width: 800px;" alt="Coding Activity Graph" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+
 <h2 align="center">🛠️ Tech Stack & Skills</h2>
 
-<p align="center"><b>Programming Languages</b></p>
+<p align="center"><b>Core Programming Languages</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" width="100%" style="max-width: 300px;" alt="Languages" />
   </a>
 </p>
 
-<p align="center"><b>Data Engineering & Cloud Technologies</b></p>
+<p align="center"><b>Data & AI</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Apache%20Spark-0a0a0a?style=for-the-badge&logo=apachespark&logoColor=EF4444" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/PySpark-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="PySpark" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-0a0a0a?style=for-the-badge&logo=apacheairflow&logoColor=EF4444" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Kubernetes-0a0a0a?style=for-the-badge&logo=kubernetes&logoColor=EF4444" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Docker-0a0a0a?style=for-the-badge&logo=docker&logoColor=EF4444" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache_Spark-0a0a0a?style=for-the-badge&logo=apachespark&logoColor=EF4444" alt="Spark" />
+  <img src="https://img.shields.io/badge/PySpark-0a0a0a?style=for-the-badge&logo=apachespark&logoColor=EF4444" alt="PySpark" />
+  <img src="https://img.shields.io/badge/HDFS-0a0a0a?style=for-the-badge&logo=apachehadoop&logoColor=EF4444" alt="HDFS" />
+  <img src="https://img.shields.io/badge/Apache_Iceberg-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Iceberg" />
   <img src="https://img.shields.io/badge/OpenSearch-0a0a0a?style=for-the-badge&logo=opensearch&logoColor=EF4444" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/LangGraph-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/Anthropic_API-0a0a0a?style=for-the-badge&logo=anthropic&logoColor=EF4444" alt="Anthropic API" />
 </p>
 
-<p align="center"><b>Frontend & Backend</b></p>
+<p align="center"><b>Backend, Frontend & Databases</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi&theme=dark" alt="Frontend and Backend" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,postgres,redis&theme=dark" width="100%" style="max-width: 300px;" alt="Backend and Databases" />
   </a>
 </p>
 
-<p align="center"><b>Databases & Storage</b></p>
+<p align="center"><b>Cloud-Native & Tools</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,redis&theme=dark" alt="Databases" />
-  </a>
-</p>
-
-<p align="center"><b>Tools & Developer Ecosystem</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" alt="Developer Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode&theme=dark" width="100%" style="max-width: 330px;" alt="Tools" />
   </a>
 </p>
 
 <h2 align="center">📊 GitHub Analytics & Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=khizar-25&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=khizar-25&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=khizar-25&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khizar-25&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=khizar-25&theme=dark&background=0A0A0A&border=EF4444&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=F3F4F6&currStreakNum=F3F4F6&sideNums=F3F4F6&dates=9CA3AF" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
 
 <h2 align="center">⚡ Contribution Journey</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/khizar-25/khizar-25/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:ef4444,100:0a0a0a&height=3" width="100%" alt="divider" />
+
 <h2 align="center">📬 Let's Connect & Collaborate</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3500&pause=800&color=F87171&center=true&vCenter=true&width=600&lines=Open+to+business+development+and+AI+product+roles.;My+inbox+is+always+open!" width="100%" style="max-width: 600px;" alt="Connect tagline" />
+</p>
 
 <table border="0" align="center">
   <tr>
     <td align="center" width="220" style="padding: 16px;">
-      <a href="https://linkedin.com/in/md-khizar-a01174290/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" alt="LinkedIn" /><br /><br />
+      <a href="https://www.linkedin.com/in/md-khizar-a01174290/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /><br /><br />
         <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
       </a><br />
       <sub><b>Professional Network</b></sub>
     </td>
     <td align="center" width="220" style="padding: 16px;">
       <a href="https://www.instagram.com/khi.zar_2509/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" alt="Instagram" /><br /><br />
-        <img src="https://img.shields.io/badge/Instagram-@khi.zar__2509-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
+        <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" /><br /><br />
+        <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
       </a><br />
-      <sub><b>Social & Insights</b></sub>
+      <sub><b>Music & Vlogs</b></sub>
     </td>
     <td align="center" width="220" style="padding: 16px;">
       <a href="mailto:mdkhizar2509@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="50" height="50" alt="Gmail" /><br /><br />
+        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" /><br /><br />
         <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
       </a><br />
-      <sub><b>Direct Contact</b></sub>
+      <sub><b>Direct Collaboration</b></sub>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,100:0a0a0a&height=120&section=footer" width="100%" alt="Footer" />
+</p>
